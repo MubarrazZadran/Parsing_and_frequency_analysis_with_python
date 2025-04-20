@@ -19,6 +19,3 @@ print(lst)
 lsst = sorted(lst)
 for l,t in lsst[:]:
     print(l,t)
-    
-    #ls.append(values)
-    #print(sorted(ls))
